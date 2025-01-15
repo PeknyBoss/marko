@@ -1,0 +1,18 @@
+felhasznalok-tábla
+felhasznaloId-elsődleges kulcs
+email
+jelszo
+jog
+
+ingatlanok-tábla
+ingatlanokId-elsődleges kulcs
+cím
+leiras
+kepURL
+ar
+helyszin
+meret
+haloszoba
+furdoszoba
+futes
+ingatlanTípus
