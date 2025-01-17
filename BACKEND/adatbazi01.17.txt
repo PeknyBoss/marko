@@ -1,0 +1,20 @@
+ingatlanok(ID, ar, telepules, szobaszam, allapot, alapterulet)
+
+tablaneve:
+	1. ID(autoincement) //int(11)
+	2. ar(int(11),not null)
+	3. telepules(varchar(255), not null)
+	4. szobaszam(varchar(5),not null)
+	5. leiras(varchar(255))
+	6. alapterulet(int(7))
+
+orszag(NEMZETKOZIAZONOSITO)
+
+	1. nemzetkoziazonosito(char(3), not null, unique))
+	2. orszagneve(varchar(255),not null)
+	3.  
+
+kategoria(id, kategoriak)
+	
+	1. id(autoincement)
+	2. katoegoriak(varchar(100), not null)
