@@ -18,3 +18,5 @@ kategoria(id, kategoriak)
 	
 	1. id(autoincement)
 	2. katoegoriak(varchar(100), not null)
+
+12
